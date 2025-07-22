@@ -1,4 +1,4 @@
-# ⚡ junIOS | Security Tool ⚡
+# ⚡ Mini Sec Tool | junIOS | Security Tool ⚡
 
 **_Own your Windows. Control your system. Hunt the threats._**
 
