@@ -22,8 +22,7 @@
   Command-line menu with slick progress animations.
 
 - 📜 **Audit Trail**  
-  Logs saved to scan_log.txt — keep track of your ops.
-
+  Logs saved to scan_log.txt — In the App Directory.
 ---
 
 ## 🚨 Requirements
