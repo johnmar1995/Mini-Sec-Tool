@@ -3,7 +3,7 @@
 **_Own your Windows. Control your system. Hunt the threats._**
 
 ---
-Please download here: https://drive.google.com/file/d/1kPG-qCgA4rWRryBCQAY_9MSBA0eAVzVG/view?usp=sharing
+Please download directly: https://drive.google.com/file/d/1kPG-qCgA4rWRryBCQAY_9MSBA0eAVzVG/view?usp=sharing
 
 ## ⚙️ What It Does
 
